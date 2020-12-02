@@ -5,6 +5,7 @@ import Gallery from './Gallery/Gallery';
 import Landing from './Landing/Landing';
 import Nav from './Nav/Nav';
 import Studio from './Studio/Studio';
+import Testimonials from './Testimonials/Testimonials';
 
 class App extends Component {
 
@@ -16,6 +17,7 @@ class App extends Component {
         <About />
         <Studio />
         <Gallery />
+        <Testimonials />
       </div>
     );
   }
