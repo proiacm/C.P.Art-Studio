@@ -1,6 +1,7 @@
 import React, {Component} from 'react'
 import About from './About/About';
 import './App.css';
+import Contact from './Contact/Contact';
 import Gallery from './Gallery/Gallery';
 import Landing from './Landing/Landing';
 import Nav from './Nav/Nav';
@@ -18,6 +19,7 @@ class App extends Component {
         <Studio />
         <Gallery />
         <Testimonials />
+        <Contact />
       </div>
     );
   }
