@@ -4,7 +4,7 @@ import './Studio.css';
 const Studio = () => {
 
   return (
-        <div>
+        <div className='studio'>
           Studio Area
         </div>
   )
