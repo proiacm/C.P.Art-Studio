@@ -33,25 +33,25 @@ This section should list any major frameworks that you built your project using.
 <!-- ROADMAP -->
 ## Roadmap
 
-[X] Information Gathering
-[X] Planning
-[] Design
-[] Content Writing and Assembly
-[] Coding
-[] Testing, Review and Launch
-[] Maintenance
+- [X] Information Gathering
+- [X] Planning
+- [] Design
+- [] Content Writing and Assembly
+- [] Coding
+- [] Testing, Review and Launch
+- [] Maintenance
 
 
 <!-- CONTRIBUTING -->
 ## Contributors
 
-[CiaraMaria Proia](https://github.com/proiacm) 
-[Ryan Parrish](https://github.com/rwparrish)
+- [CiaraMaria Proia](https://github.com/proiacm) 
+- [Ryan Parrish](https://github.com/rwparrish)
 
 <!-- LICENSE -->
 ## License
 
-Copyright 2020 proiacm & rwparrish
+Copyright 2020 proiacm && rwparrish
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
