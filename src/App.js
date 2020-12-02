@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import About from './About/About';
 import './App.css';
 import Landing from './Landing/Landing';
 import Nav from './Nav/Nav';
@@ -10,6 +11,7 @@ class App extends Component {
       <div className="App">
         <Nav />
         <Landing />
+        <About />
       </div>
     );
   }
