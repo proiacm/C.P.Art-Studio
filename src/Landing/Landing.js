@@ -4,7 +4,7 @@ import './Landing.css';
 const Landing = () => {
 
   return (
-        <div className='landing'>
+        <div className='landing' id='landing'>
           Landing Area
         </div>
   )

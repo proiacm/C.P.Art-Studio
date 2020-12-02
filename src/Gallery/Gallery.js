@@ -4,7 +4,7 @@ import './Gallery.css';
 const Gallery = () => {
 
   return (
-        <div className='gallery'>
+        <div className='gallery' id='gallery'>
           Gallery Area
         </div>
   )
