@@ -1,0 +1,42 @@
+.landing {
+    position: relative; 
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.landing::before {    
+  content: "";
+  background-image: url('../Images/landing4.png');
+  background-size: cover;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0.4;
+}
+
+.landing-title {
+  font-family: Cochin;
+  font-size: 8vw;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+  position: relative;
+  margin-top: -25%;
+  
+  &.landing-title {
+    color: #3e3c41;
+    letter-spacing: .15em;
+    text-shadow: 
+    1px -1px 0 #49464d, 
+    -1px 2px 1px #4f4c53, 
+    -18px 36px 1px #bcbbba
+  }
+}
+
+.landing-text {
+  position: absolute;
+}
