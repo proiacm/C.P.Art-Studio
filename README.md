@@ -21,7 +21,7 @@
 ## About The Project
 C.P Art Studio
 
-[View Live]()
+[View Live](https://www.cmproia.com/C.P.Art-Studio/)
 
 Freelance website for local small business
 
