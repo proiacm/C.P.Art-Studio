@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/C.P.Art-Studio/static/css/main.a571df43.chunk.css",
+    "main.js": "/C.P.Art-Studio/static/js/main.3e851fbc.chunk.js",
+    "main.js.map": "/C.P.Art-Studio/static/js/main.3e851fbc.chunk.js.map",
+    "runtime-main.js": "/C.P.Art-Studio/static/js/runtime-main.d4ad5f9e.js",
+    "runtime-main.js.map": "/C.P.Art-Studio/static/js/runtime-main.d4ad5f9e.js.map",
+    "static/css/2.8e174b25.chunk.css": "/C.P.Art-Studio/static/css/2.8e174b25.chunk.css",
+    "static/js/2.aca2274e.chunk.js": "/C.P.Art-Studio/static/js/2.aca2274e.chunk.js",
+    "static/js/2.aca2274e.chunk.js.map": "/C.P.Art-Studio/static/js/2.aca2274e.chunk.js.map",
+    "static/js/3.2eb4829c.chunk.js": "/C.P.Art-Studio/static/js/3.2eb4829c.chunk.js",
+    "static/js/3.2eb4829c.chunk.js.map": "/C.P.Art-Studio/static/js/3.2eb4829c.chunk.js.map",
+    "index.html": "/C.P.Art-Studio/index.html",
+    "static/css/2.8e174b25.chunk.css.map": "/C.P.Art-Studio/static/css/2.8e174b25.chunk.css.map",
+    "static/css/main.a571df43.chunk.css.map": "/C.P.Art-Studio/static/css/main.a571df43.chunk.css.map",
+    "static/js/2.aca2274e.chunk.js.LICENSE.txt": "/C.P.Art-Studio/static/js/2.aca2274e.chunk.js.LICENSE.txt",
+    "static/media/animatedlogo.e2f643f7.mp4": "/C.P.Art-Studio/static/media/animatedlogo.e2f643f7.mp4",
+    "static/media/gallery1.fc172f07.png": "/C.P.Art-Studio/static/media/gallery1.fc172f07.png",
+    "static/media/gallery10.fd3f65ba.png": "/C.P.Art-Studio/static/media/gallery10.fd3f65ba.png",
+    "static/media/gallery11.0b64ddd8.png": "/C.P.Art-Studio/static/media/gallery11.0b64ddd8.png",
+    "static/media/gallery12.df9710ae.png": "/C.P.Art-Studio/static/media/gallery12.df9710ae.png",
+    "static/media/gallery2.9e280476.png": "/C.P.Art-Studio/static/media/gallery2.9e280476.png",
+    "static/media/gallery3.731810e5.png": "/C.P.Art-Studio/static/media/gallery3.731810e5.png",
+    "static/media/gallery4.b4c0d162.png": "/C.P.Art-Studio/static/media/gallery4.b4c0d162.png",
+    "static/media/gallery5.afd1d7de.png": "/C.P.Art-Studio/static/media/gallery5.afd1d7de.png",
+    "static/media/gallery6.06fd6993.png": "/C.P.Art-Studio/static/media/gallery6.06fd6993.png",
+    "static/media/gallery7.d1c56efd.png": "/C.P.Art-Studio/static/media/gallery7.d1c56efd.png",
+    "static/media/gallery8.12ae57e2.png": "/C.P.Art-Studio/static/media/gallery8.12ae57e2.png",
+    "static/media/gallery9.756ac29a.png": "/C.P.Art-Studio/static/media/gallery9.756ac29a.png",
+    "static/media/portrait.897fb79f.png": "/C.P.Art-Studio/static/media/portrait.897fb79f.png",
+    "static/media/studiodemo.b588f93f.png": "/C.P.Art-Studio/static/media/studiodemo.b588f93f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4ad5f9e.js",
+    "static/css/2.8e174b25.chunk.css",
+    "static/js/2.aca2274e.chunk.js",
+    "static/css/main.a571df43.chunk.css",
+    "static/js/main.3e851fbc.chunk.js"
+  ]
+}
