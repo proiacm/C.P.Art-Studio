@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/C.P.Art-Studio/static/css/main.a571df43.chunk.css",
-    "main.js": "/C.P.Art-Studio/static/js/main.3e851fbc.chunk.js",
-    "main.js.map": "/C.P.Art-Studio/static/js/main.3e851fbc.chunk.js.map",
+    "main.js": "/C.P.Art-Studio/static/js/main.d691383b.chunk.js",
+    "main.js.map": "/C.P.Art-Studio/static/js/main.d691383b.chunk.js.map",
     "runtime-main.js": "/C.P.Art-Studio/static/js/runtime-main.d4ad5f9e.js",
     "runtime-main.js.map": "/C.P.Art-Studio/static/js/runtime-main.d4ad5f9e.js.map",
     "static/css/2.8e174b25.chunk.css": "/C.P.Art-Studio/static/css/2.8e174b25.chunk.css",
@@ -15,26 +15,26 @@
     "static/css/main.a571df43.chunk.css.map": "/C.P.Art-Studio/static/css/main.a571df43.chunk.css.map",
     "static/js/2.aca2274e.chunk.js.LICENSE.txt": "/C.P.Art-Studio/static/js/2.aca2274e.chunk.js.LICENSE.txt",
     "static/media/animatedlogo.e2f643f7.mp4": "/C.P.Art-Studio/static/media/animatedlogo.e2f643f7.mp4",
-    "static/media/gallery1.fc172f07.png": "/C.P.Art-Studio/static/media/gallery1.fc172f07.png",
-    "static/media/gallery10.fd3f65ba.png": "/C.P.Art-Studio/static/media/gallery10.fd3f65ba.png",
-    "static/media/gallery11.0b64ddd8.png": "/C.P.Art-Studio/static/media/gallery11.0b64ddd8.png",
-    "static/media/gallery12.df9710ae.png": "/C.P.Art-Studio/static/media/gallery12.df9710ae.png",
-    "static/media/gallery2.9e280476.png": "/C.P.Art-Studio/static/media/gallery2.9e280476.png",
-    "static/media/gallery3.731810e5.png": "/C.P.Art-Studio/static/media/gallery3.731810e5.png",
-    "static/media/gallery4.b4c0d162.png": "/C.P.Art-Studio/static/media/gallery4.b4c0d162.png",
-    "static/media/gallery5.afd1d7de.png": "/C.P.Art-Studio/static/media/gallery5.afd1d7de.png",
-    "static/media/gallery6.06fd6993.png": "/C.P.Art-Studio/static/media/gallery6.06fd6993.png",
-    "static/media/gallery7.d1c56efd.png": "/C.P.Art-Studio/static/media/gallery7.d1c56efd.png",
-    "static/media/gallery8.12ae57e2.png": "/C.P.Art-Studio/static/media/gallery8.12ae57e2.png",
-    "static/media/gallery9.756ac29a.png": "/C.P.Art-Studio/static/media/gallery9.756ac29a.png",
-    "static/media/portrait.897fb79f.png": "/C.P.Art-Studio/static/media/portrait.897fb79f.png",
-    "static/media/studiodemo.b588f93f.png": "/C.P.Art-Studio/static/media/studiodemo.b588f93f.png"
+    "static/media/gallery1.3804477d.png": "/C.P.Art-Studio/static/media/gallery1.3804477d.png",
+    "static/media/gallery10.6d28285e.png": "/C.P.Art-Studio/static/media/gallery10.6d28285e.png",
+    "static/media/gallery11.6fce6712.png": "/C.P.Art-Studio/static/media/gallery11.6fce6712.png",
+    "static/media/gallery12.5160cba1.png": "/C.P.Art-Studio/static/media/gallery12.5160cba1.png",
+    "static/media/gallery2.15f1791d.png": "/C.P.Art-Studio/static/media/gallery2.15f1791d.png",
+    "static/media/gallery3.f80e1218.png": "/C.P.Art-Studio/static/media/gallery3.f80e1218.png",
+    "static/media/gallery4.688ba0f7.png": "/C.P.Art-Studio/static/media/gallery4.688ba0f7.png",
+    "static/media/gallery5.607bf502.png": "/C.P.Art-Studio/static/media/gallery5.607bf502.png",
+    "static/media/gallery6.1897a662.png": "/C.P.Art-Studio/static/media/gallery6.1897a662.png",
+    "static/media/gallery7.464dcc2b.png": "/C.P.Art-Studio/static/media/gallery7.464dcc2b.png",
+    "static/media/gallery8.af1657ce.png": "/C.P.Art-Studio/static/media/gallery8.af1657ce.png",
+    "static/media/gallery9.afe5a65c.png": "/C.P.Art-Studio/static/media/gallery9.afe5a65c.png",
+    "static/media/portraitdemo.89910ea6.png": "/C.P.Art-Studio/static/media/portraitdemo.89910ea6.png",
+    "static/media/studiodemo.86972448.png": "/C.P.Art-Studio/static/media/studiodemo.86972448.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d4ad5f9e.js",
     "static/css/2.8e174b25.chunk.css",
     "static/js/2.aca2274e.chunk.js",
     "static/css/main.a571df43.chunk.css",
-    "static/js/main.3e851fbc.chunk.js"
+    "static/js/main.d691383b.chunk.js"
   ]
 }
