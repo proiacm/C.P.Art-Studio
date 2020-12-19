@@ -25,6 +25,9 @@ const Contact = (props) => {
               </label> <br/><br/>
               <input className='submit' type="submit" value="Send Message" />
             </form>
+            <p className='footer'>
+              Made with &hearts; by <a target='_blank' rel="noopener noreferrer" href='https://www.cmproia.com'>CiaraMaria</a>
+            </p>
           </div>
     </div>
   )
