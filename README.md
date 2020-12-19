@@ -21,6 +21,8 @@
 ## About The Project
 C.P Art Studio
 
+[View Live]()
+
 Freelance website for local small business
 
 ### Built With
@@ -35,9 +37,9 @@ This section should list any major frameworks that you built your project using.
 
 - [X] Information Gathering
 - [X] Planning
-- [] Design
+- [X] Design
 - [] Content Writing and Assembly
-- [] Coding
+- [X] Coding
 - [] Testing, Review and Launch
 - [] Maintenance
 

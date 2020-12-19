@@ -1,6 +1,6 @@
 .about {
    overflow: auto;
-   padding-top: 10%;
+   padding-top: 11%;
    padding-bottom: 20%;
 }
 
@@ -16,4 +16,22 @@
   text-align: left;
   font-size: 1.5vw;
   margin-right: 1%;
+}
+
+@media screen and (max-width: 600px) {
+  .about {
+    padding-top: 25%;
+    padding-bottom: 5%;
+  }
+
+  .about-img {
+    width: 40%;
+    height: 40%;
+  }
+
+  .about-text {
+    font-size: 5vw;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
 }
