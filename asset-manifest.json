@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/C.P.Art-Studio/static/css/main.a571df43.chunk.css",
+    "main.css": "/C.P.Art-Studio/static/css/main.6b9bece3.chunk.css",
     "main.js": "/C.P.Art-Studio/static/js/main.d691383b.chunk.js",
     "main.js.map": "/C.P.Art-Studio/static/js/main.d691383b.chunk.js.map",
     "runtime-main.js": "/C.P.Art-Studio/static/js/runtime-main.d4ad5f9e.js",
@@ -12,7 +12,7 @@
     "static/js/3.2eb4829c.chunk.js.map": "/C.P.Art-Studio/static/js/3.2eb4829c.chunk.js.map",
     "index.html": "/C.P.Art-Studio/index.html",
     "static/css/2.8e174b25.chunk.css.map": "/C.P.Art-Studio/static/css/2.8e174b25.chunk.css.map",
-    "static/css/main.a571df43.chunk.css.map": "/C.P.Art-Studio/static/css/main.a571df43.chunk.css.map",
+    "static/css/main.6b9bece3.chunk.css.map": "/C.P.Art-Studio/static/css/main.6b9bece3.chunk.css.map",
     "static/js/2.aca2274e.chunk.js.LICENSE.txt": "/C.P.Art-Studio/static/js/2.aca2274e.chunk.js.LICENSE.txt",
     "static/media/animatedlogo.e2f643f7.mp4": "/C.P.Art-Studio/static/media/animatedlogo.e2f643f7.mp4",
     "static/media/gallery1.3804477d.png": "/C.P.Art-Studio/static/media/gallery1.3804477d.png",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.d4ad5f9e.js",
     "static/css/2.8e174b25.chunk.css",
     "static/js/2.aca2274e.chunk.js",
-    "static/css/main.a571df43.chunk.css",
+    "static/css/main.6b9bece3.chunk.css",
     "static/js/main.d691383b.chunk.js"
   ]
 }
