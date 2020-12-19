@@ -7,8 +7,48 @@ import Landing from './Landing/Landing';
 import Nav from './Nav/Nav';
 import Studio from './Studio/Studio';
 import Testimonials from './Testimonials/Testimonials';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 class App extends Component {
+
+  state = {
+    name: '',
+    phone: '',
+    email: '',
+    message:''
+  }
+    
+  nameChangeHandler = (event) => {
+    this.setState({
+      name: event.target.value
+    })
+  }
+
+  phoneChangeHandler = (event) => {
+    this.setState({
+      phone: event.target.value
+    })
+  }
+
+  emailChangeHandler = (event) => {
+    this.setState({
+      email: event.target.value
+    })
+  }
+
+  messageChangeHandler = (event) => {
+    this.setState({
+      message: event.target.value
+    })
+  }
+
+  submitHandler = (event) => {
+    event.preventDefault()
+    event.currentTarget.reset();
+    toast.success("Thank you! I'll be in touch soon.");
+  }
+
 
   render() {
     return (
@@ -19,7 +59,28 @@ class App extends Component {
         <Studio />
         <Gallery />
         <Testimonials />
-        <Contact />
+        <Contact
+         name={this.state.name}
+         phone={this.state.phone}
+         email={this.state.email}
+         message={this.state.message}
+         nameChanged={this.nameChangeHandler}
+         phoneChanged={this.phoneChangeHandler}
+         emailChanged={this.emailChangeHandler}
+         messageChanged={this.messageChangeHandler}
+         submit={this.submitHandler}
+        />
+         <ToastContainer 
+        position="top-center"
+        autoClose={4000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        />
       </div>
     );
   }
