@@ -1,5 +1,8 @@
 .App {
   text-align: center;
-  color: #3e3c41;
-  font-family: Big Caslon;
+  color: #222222;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #EEE9E7;
+  text-rendering: optimizeLegibility;
+
 }
