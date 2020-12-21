@@ -18,29 +18,29 @@ const Gallery = () => {
   return(
     <div className="row" id='gallery'> 
       <div className="column">
-        <img className='gallery-img' src={gallery1} />
-        <img className='gallery-img' src={gallery2} />
-        <img className='gallery-img' src={gallery3} />
+        <img className='gallery-img' alt='demo' src={gallery1} />
+        <img className='gallery-img' alt='demo' src={gallery2} />
+        <img className='gallery-img' alt='demo' src={gallery3} />
        
       </div>
       <div className="column">
-        <img className='gallery-img' src={gallery5} />
-        <img className='gallery-img' src={gallery6} />
-        <img className='gallery-img' src={gallery1} />
-        <img className='gallery-img' src={gallery8} />
-        <img className='gallery-img' src={gallery4} />
+        <img className='gallery-img' alt='demo' src={gallery5} />
+        <img className='gallery-img' alt='demo' src={gallery6} />
+        <img className='gallery-img' alt='demo' src={gallery1} />
+        <img className='gallery-img' alt='demo' src={gallery8} />
+        <img className='gallery-img' alt='demo' src={gallery4} />
       </div>  
       <div className="column">
-        <img className='gallery-img' src={gallery9} />
-        <img className='gallery-img' src={gallery10} />
-        <img className='gallery-img' src={gallery11} />
-        <img className='gallery-img' src={gallery12} />
-        <img className='gallery-img' src={gallery9} />
+        <img className='gallery-img' alt='demo' src={gallery9} />
+        <img className='gallery-img' alt='demo' src={gallery10} />
+        <img className='gallery-img' alt='demo' src={gallery11} />
+        <img className='gallery-img' alt='demo' src={gallery12} />
+        <img className='gallery-img' alt='demo' src={gallery9} />
       </div>
       <div className="column">
-        <img className='gallery-img' src={gallery2} />
-        <img className='gallery-img' src={gallery5} />
-        <img className='gallery-img' src={gallery7} />
+        <img className='gallery-img' alt='demo' src={gallery2} />
+        <img className='gallery-img' alt='demo' src={gallery5} />
+        <img className='gallery-img' alt='demo' src={gallery7} />
       </div>
   </div>
   )    
