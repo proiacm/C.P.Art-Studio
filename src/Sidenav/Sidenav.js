@@ -14,13 +14,11 @@ class Sidenav extends Component {
     this.setState({menuOpen: state.isOpen})  
   }
   
+  // closes on link click
   closeMenu () {
     this.setState({menuOpen: false})
   }
 
-  toggleMenu () {
-    this.setState(state => ({menuOpen: !state.menuOpen}))
-  }
 
   render () {
 
