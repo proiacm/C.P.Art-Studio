@@ -4,11 +4,11 @@ import './App.css';
 import Contact from './Contact/Contact';
 import Gallery from './Gallery/Gallery';
 import Landing from './Landing/Landing';
-import Nav from './Nav/Nav';
 import Studio from './Studio/Studio';
 import Testimonials from './Testimonials/Testimonials';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import Sidenav from './Sidenav/Sidenav';
 
 class App extends Component {
 
@@ -53,7 +53,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Nav />
+        <Sidenav />
         <Landing />
         <About />
         <Studio />
