@@ -25,7 +25,7 @@ class Sidenav extends Component {
   render () {
 
     return (
-      <div>
+      <div className='sidenav'>
         <Menu width={ '15%' } isOpen={this.state.menuOpen} onStateChange={(state) => this.handleStateChange(state)}>
           <Link style={{ cursor: "pointer"}} to="home" spy={true} smooth={true} onClick={() => this.closeMenu()}>Home</Link>
           <Link style={{ cursor: "pointer"}} to="about" spy={true} smooth={true} onClick={() => this.closeMenu()}>About</Link>
