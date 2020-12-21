@@ -25,12 +25,12 @@ class Sidenav extends Component {
     return (
       <div className='sidenav'>
         <Menu width={ '15%' } isOpen={this.state.menuOpen} onStateChange={(state) => this.handleStateChange(state)}>
-          <Link style={{ cursor: "pointer"}} to="home" spy={true} smooth={true} onClick={() => this.closeMenu()}>Home</Link>
-          <Link style={{ cursor: "pointer"}} to="about" spy={true} smooth={true} onClick={() => this.closeMenu()}>About</Link>
-          <Link style={{ cursor: "pointer"}} to="studio" spy={true} smooth={true} onClick={() => this.closeMenu()}>The Studio</Link>
-          <Link style={{ cursor: "pointer"}} to="gallery" spy={true} smooth={true} onClick={() => this.closeMenu()}>Gallery</Link>
-          <Link style={{ cursor: "pointer"}} to="testimonials" spy={true} smooth={true} onClick={() => this.closeMenu()}>Testimonials</Link>
-          <Link style={{ cursor: "pointer"}} to="contact" spy={true} smooth={true} onClick={() => this.closeMenu()}>Contact</Link>
+          <Link className='nav-li' style={{ cursor: "pointer"}} to="home" spy={true} smooth={true} onClick={() => this.closeMenu()}>Home</Link>
+          <Link className='nav-li' style={{ cursor: "pointer"}} to="about" spy={true} smooth={true} onClick={() => this.closeMenu()}>About</Link>
+          <Link className='nav-li' style={{ cursor: "pointer"}} to="studio" spy={true} smooth={true} onClick={() => this.closeMenu()}>The Studio</Link>
+          <Link className='nav-li' style={{ cursor: "pointer"}} to="gallery" spy={true} smooth={true} onClick={() => this.closeMenu()}>Gallery</Link>
+          <Link className='nav-li' style={{ cursor: "pointer"}} to="testimonials" spy={true} smooth={true} onClick={() => this.closeMenu()}>Testimonials</Link>
+          <Link className='nav-li' style={{ cursor: "pointer"}} to="contact" spy={true} smooth={true} onClick={() => this.closeMenu()}>Contact</Link>
         </Menu>    
       </div>
     );
