@@ -8,6 +8,7 @@ const Landing = () => {
           <p className='welcome'>WELCOME TO</p>
           <p className='cp'>CP</p>
           <p className='as'>art studio</p>
+          <p className='cs'>COLORADO SPRINGS</p>
         </div>
   )
 }
