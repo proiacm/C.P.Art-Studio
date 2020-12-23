@@ -10,6 +10,7 @@ const Landing = () => {
           <source src={logo} type="video/mp4"/>
           </video> */}
           <p className='cp'>CP</p>
+          <p className='as'>art studio</p>
         </div>
   )
 }

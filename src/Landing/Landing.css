@@ -15,7 +15,15 @@
     color: #D7695C;
   }
 
-
+  .as {
+    animation: slidein 1s forwards;
+    animation-delay: 0.5s;
+    font-size: 300%;
+    font-family: 'Playfair Display', serif;
+    color: #222222;
+    opacity: 0;
+    margin-left: 1%;
+  }
   
   @keyframes slidein {
     0% {
