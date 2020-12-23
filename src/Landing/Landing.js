@@ -1,14 +1,11 @@
 import React from 'react';
 import './Landing.css';
-// import logo from '../Videos/animatedlogo.mp4';
 
 const Landing = () => {
 
   return (
         <div className='landing' id='home'>
-          {/* <video className='logo' autoPlay muted >
-          <source src={logo} type="video/mp4"/>
-          </video> */}
+          <p className='welcome'>WELCOME TO</p>
           <p className='cp'>CP</p>
           <p className='as'>art studio</p>
         </div>
