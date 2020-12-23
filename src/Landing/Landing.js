@@ -1,16 +1,14 @@
 import React from 'react';
-import './Landing.scss';
-// import logo from '../Images/cplogo.png';
-import logo from '../Videos/animatedlogo.mp4';
+import './Landing.css';
 
 const Landing = () => {
 
   return (
         <div className='landing' id='home'>
-          {/* <img className='logo' src={logo} alt='logo' /> */}
-          <video className='logo' autoPlay muted >
-          <source src={logo} type="video/mp4"/>
-          </video>
+          <p className='welcome'>WELCOME TO</p>
+          <p className='cp'>CP</p>
+          <p className='as'>art studio</p>
+          <p className='cs'>COLORADO SPRINGS</p>
         </div>
   )
 }
