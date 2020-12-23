@@ -67,7 +67,15 @@
   }
 
   @media screen and (max-width: 600px) {
-    .logo {
-      width: 100%;
+    .cp {
+      font-size: 1300%;
+    }
+
+    .welcome {
+      margin-bottom: 70%;
+    }
+
+    .cs {
+      margin-top: 80%;
     }
   }
