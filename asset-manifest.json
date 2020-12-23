@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/C.P.Art-Studio/static/css/main.96480b48.chunk.css",
-    "main.js": "/C.P.Art-Studio/static/js/main.62ed189f.chunk.js",
-    "main.js.map": "/C.P.Art-Studio/static/js/main.62ed189f.chunk.js.map",
+    "main.css": "/C.P.Art-Studio/static/css/main.19880796.chunk.css",
+    "main.js": "/C.P.Art-Studio/static/js/main.b2c9a1ff.chunk.js",
+    "main.js.map": "/C.P.Art-Studio/static/js/main.b2c9a1ff.chunk.js.map",
     "runtime-main.js": "/C.P.Art-Studio/static/js/runtime-main.d1bae066.js",
     "runtime-main.js.map": "/C.P.Art-Studio/static/js/runtime-main.d1bae066.js.map",
     "static/css/2.8e174b25.chunk.css": "/C.P.Art-Studio/static/css/2.8e174b25.chunk.css",
@@ -12,9 +12,8 @@
     "static/js/3.285b3ced.chunk.js.map": "/C.P.Art-Studio/static/js/3.285b3ced.chunk.js.map",
     "index.html": "/C.P.Art-Studio/index.html",
     "static/css/2.8e174b25.chunk.css.map": "/C.P.Art-Studio/static/css/2.8e174b25.chunk.css.map",
-    "static/css/main.96480b48.chunk.css.map": "/C.P.Art-Studio/static/css/main.96480b48.chunk.css.map",
+    "static/css/main.19880796.chunk.css.map": "/C.P.Art-Studio/static/css/main.19880796.chunk.css.map",
     "static/js/2.9276c766.chunk.js.LICENSE.txt": "/C.P.Art-Studio/static/js/2.9276c766.chunk.js.LICENSE.txt",
-    "static/media/animatedlogo.e2f643f7.mp4": "/C.P.Art-Studio/static/media/animatedlogo.e2f643f7.mp4",
     "static/media/gallery1.3804477d.png": "/C.P.Art-Studio/static/media/gallery1.3804477d.png",
     "static/media/gallery10.6d28285e.png": "/C.P.Art-Studio/static/media/gallery10.6d28285e.png",
     "static/media/gallery11.6fce6712.png": "/C.P.Art-Studio/static/media/gallery11.6fce6712.png",
@@ -34,7 +33,7 @@
     "static/js/runtime-main.d1bae066.js",
     "static/css/2.8e174b25.chunk.css",
     "static/js/2.9276c766.chunk.js",
-    "static/css/main.96480b48.chunk.css",
-    "static/js/main.62ed189f.chunk.js"
+    "static/css/main.19880796.chunk.css",
+    "static/js/main.b2c9a1ff.chunk.js"
   ]
 }
